@@ -1,0 +1,38 @@
+Márka modell: Toyota Land Cruiser, Évjárat: 2019, Tömege: 5511,549999999999 Font
+Márka modell: Jeep Wrangler, Évjárat: 2020, Tömege: 4409,24 Font
+Márka modell: Land Rover Discovery, Évjárat: 2018, Tömege: 4850,164 Font
+Márka modell: Nissan Pathfinder, Évjárat: 2017, Tömege: 4629,701999999999 Font
+Márka modell: Ford Bronco, Évjárat: 2021, Tömege: 4188,777999999999 Font
+Márka modell: Mitsubishi Pajero, Évjárat: 2019, Tömege: 5291,088 Font
+Márka modell: Jeep Cherokee, Évjárat: 2018, Tömege: 3968,316 Font
+Márka modell: Land Rover Defender, Évjárat: 2020, Tömege: 5070,625999999999 Font
+Márka modell: Chevrolet Tahoe, Évjárat: 2019, Tömege: 5291,088 Font
+Márka modell: Ford Ranger Raptor, Évjárat: 2021, Tömege: 4629,701999999999 Font
+Márka modell: Nissan Xterra, Évjárat: 2018, Tömege: 4409,24 Font
+Márka modell: Toyota 4Runner, Évjárat: 2020, Tömege: 4629,701999999999 Font
+Márka modell: Jeep Grand Cherokee, Évjárat: 2019, Tömege: 4850,164 Font
+Márka modell: Subaru Outback, Évjárat: 2017, Tömege: 3968,316 Font
+Márka modell: Mitsubishi Montero, Évjárat: 2019, Tömege: 5070,625999999999 Font
+Márka modell: Land Rover Range Rover, Évjárat: 2018, Tömege: 5511,549999999999 Font
+Márka modell: Chevrolet Colorado, Évjárat: 2020, Tömege: 4188,777999999999 Font
+Márka modell: Ford Explorer, Évjárat: 2019, Tömege: 4629,701999999999 Font
+Márka modell: Toyota Sequoia, Évjárat: 2018, Tömege: 5291,088 Font
+Márka modell: Nissan Patrol, Évjárat: 2020, Tömege: 5732,012 Font
+Márka modell: Jeep Renegade, Évjárat: 2019, Tömege: 3747,854 Font
+Márka modell: Land Rover Range Rover Sport, Évjárat: 2018, Tömege: 5291,088 Font
+Márka modell: Chevrolet Blazer, Évjárat: 2020, Tömege: 4409,24 Font
+Márka modell: Ford Escape, Évjárat: 2019, Tömege: 3527,392 Font
+Márka modell: Toyota RAV4, Évjárat: 2020, Tömege: 3968,316 Font
+Márka modell: Nissan Rogue, Évjárat: 2018, Tömege: 3747,854 Font
+Márka modell: Jeep Compass, Évjárat: 2019, Tömege: 3306,93 Font
+Márka modell: Subaru Crosstrek, Évjárat: 2020, Tömege: 3527,392 Font
+Márka modell: Mitsubishi Eclipse Cross, Évjárat: 2018, Tömege: 3527,392 Font
+Márka modell: Land Rover Range Rover Evoque, Évjárat: 2019, Tömege: 3747,854 Font
+Márka modell: Chevrolet Trax, Évjárat: 2018, Tömege: 3306,93 Font
+Márka modell: Ford EcoSport, Évjárat: 2020, Tömege: 3086,468 Font
+Márka modell: Toyota C-HR, Évjárat: 2019, Tömege: 3306,93 Font
+Márka modell: Nissan Kicks, Évjárat: 2018, Tömege: 3086,468 Font
+Márka modell: Jeep Renegade 4xe, Évjárat: 2020, Tömege: 3968,316 Font
+Márka modell: Toyota RAV4 Prime, Évjárat: 2019, Tömege: 4188,777999999999 Font
+Márka modell: Ford Escape Hybrid, Évjárat: 2020, Tömege: 3747,854 Font
+Márka modell: Nissan Rogue Hybrid, Évjárat: 2018, Tömege: 3527,392 Font
